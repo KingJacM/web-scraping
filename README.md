@@ -1,2 +1,10 @@
 # web-scraping
 getting any specific content on the web page (including subpages) using web crawling (Beautiful Soup)
+
+## Getting started
+
+Assign the webpage you want to scrap to the relevant variable
+customize the code and change to what you prefer
+enjoy
+
+> in this case I am getting the business' email on a forum (SkyKiwi)
